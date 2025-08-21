@@ -1,0 +1,43 @@
+.vagas {
+    background-color: var(--branco);
+    width: 100%;
+    max-width: 1,280px;
+    height: 358px;
+}
+
+
+.lista__vaga {
+    display: none;
+    display: block;
+}
+
+.lista__vaga__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.lista__vaga__titulo {
+    font-size: 20px;
+    font-weight: 500;
+    color: (var(--azul-escuro));
+    font-family: var(--inter);
+    text-decoration: none;
+}
+
+
+.lista__vaga__descricao {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--azul-escuro);
+    font-family: var(--inter);
+    text-decoration: none;
+}
+
+.lista__vaga__texto {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--cinza);
+    font-family: var(--inter);
+    text-decoration: none;
+}

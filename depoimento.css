@@ -1,0 +1,55 @@
+.container__2 {
+    background-color: var(--branco);
+    width: 100%;
+    max-width: 1,216px;
+    height: 404px;
+}
+
+.comeco__2 {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: var(--inter);
+    color: var(--vermelho);
+}
+
+.texto-principal__2 {
+    font-size: 36px;
+    font-weight: 500;
+    font-family: var(--inter);
+    color: var(--azul-escuro);
+}
+
+.mini_container {
+    width: 100%;
+    max-width: 1,088px;
+    height: 120px;
+    gap: 16px;
+}
+
+
+.img__2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nome {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--inter);
+    color: var(--azul-escuro);
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.dev {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: var(--inter);
+    color: var(--cinza);
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
